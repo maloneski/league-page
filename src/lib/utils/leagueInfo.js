@@ -1,7 +1,7 @@
 /*   STEP 1   */
 export const leagueID = "726146257025896448"; // your league ID
 export const leagueName = "Battle of the Sexes"; // your league name
-//export const dues = 100; // (optional) used in template constitution page
+export const dues = 0; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 
 /*   STEP 2   */
